@@ -1,0 +1,52 @@
+{
+    "name": "기민성",
+    "personality": "냉철한",
+    "background": "숲의 정령",
+    "stats": {
+        "hp": 150,
+        "mp": 80,
+        "atk": 18,
+        "def": 11,
+        "spd": 12
+    },
+    "skills": [
+        {
+            "name": "기술-390",
+            "tags": [
+                "bleed",
+                "fire",
+                "ice"
+            ],
+            "mp_cost": 16
+        },
+        {
+            "name": "기술-785",
+            "tags": [
+                "dodge",
+                "blind",
+                "block"
+            ],
+            "mp_cost": 16
+        },
+        {
+            "name": "기술-279",
+            "tags": [
+                "bleed",
+                "block",
+                "bolt"
+            ],
+            "mp_cost": 16
+        },
+        {
+            "name": "기술-407",
+            "tags": [
+                "bleed",
+                "berserk",
+                "parry"
+            ],
+            "mp_cost": 16
+        }
+    ],
+    "current_hp": 150,
+    "current_mp": 80
+}
